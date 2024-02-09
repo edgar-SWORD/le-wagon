@@ -1,3 +1,3 @@
 * Introduction
 
-Welcome to the README.md file!
+Welcome to the README.md file :)
